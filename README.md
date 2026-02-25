@@ -1,11 +1,10 @@
-# Comprehensive Copilot Collaboration Knowledge Base
+# 存儲庫概述
+這是長德嵐的 copilot_chat_md 存儲庫，旨在提供與 GitHub Copilot 相關的資源和指南。
 
-## Overview
-This document provides a comprehensive overview of the Copilot collaboration knowledge base architecture.
+## 特色
+- 自動化指南
+- 知識庫索引
+- 維護日誌和變更日誌
+- 各種模板和工作流示例
 
-## Contents
-- AI Collaboration Guides
-- Templates
-- Workflows
-- Case Studies
-- Archived Content
+歡迎使用，並隨時貢獻更多內容！
